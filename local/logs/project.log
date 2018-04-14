@@ -1,0 +1,53 @@
+2018-04-10T16:31:49.834Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-10T16:31:49.838Z - normal: checking language setting...
+2018-04-10T16:31:49.838Z - normal: Language: en
+2018-04-10T16:31:50.997Z - success: protocol editor-framework registered
+2018-04-10T16:31:50.998Z - success: protocol app registered
+2018-04-10T16:31:50.998Z - success: protocol theme registered
+2018-04-10T16:31:50.998Z - success: protocol packages registered
+2018-04-10T16:31:50.999Z - success: protocol unpack registerred
+2018-04-10T16:31:50.999Z - success: protocol disable-commonjs registerred
+2018-04-10T16:31:51.682Z - normal: connected!
+2018-04-10T16:31:51.683Z - normal: Check project /Users/cheungchunki/Downloads/word_proj
+2018-04-10T16:31:51.684Z - normal: Initializing Cocos2d
+2018-04-10T16:31:51.925Z - normal: Initializing Asset Database
+2018-04-10T16:31:51.964Z - success: protocol uuid registerred
+2018-04-10T16:31:51.964Z - success: protocol db registerred
+2018-04-10T16:31:51.964Z - success: protocol thumbnail registerred
+2018-04-10T16:31:51.964Z - normal: Loading editor/builtin packages
+2018-04-10T16:31:51.996Z - success: anysdk loaded
+2018-04-10T16:31:52.124Z - success: assets loaded
+2018-04-10T16:31:52.127Z - success: builder loaded
+2018-04-10T16:31:52.130Z - success: cocos-analytics loaded
+2018-04-10T16:31:52.135Z - success: console loaded
+2018-04-10T16:31:52.172Z - success: fb-instant-games loaded
+2018-04-10T16:31:52.178Z - success: hierarchy loaded
+2018-04-10T16:31:52.183Z - success: inspector loaded
+2018-04-10T16:31:52.185Z - success: keystore loaded
+2018-04-10T16:31:52.195Z - success: node-library loaded
+2018-04-10T16:31:52.198Z - success: package-asset loaded
+2018-04-10T16:31:52.201Z - success: preferences loaded
+2018-04-10T16:31:52.205Z - success: project-exporter loaded
+2018-04-10T16:31:52.229Z - success: project-importer loaded
+2018-04-10T16:31:52.232Z - success: project-settings loaded
+2018-04-10T16:31:52.237Z - success: ui-kit loaded
+2018-04-10T16:31:52.243Z - success: ui-grid loaded
+2018-04-10T16:31:52.248Z - success: scene loaded
+2018-04-10T16:31:52.250Z - success: sprite-editor loaded
+2018-04-10T16:31:52.255Z - success: store loaded
+2018-04-10T16:31:52.262Z - success: timeline loaded
+2018-04-10T16:31:52.262Z - normal: Loading builtin packages
+2018-04-10T16:31:52.267Z - success: asset-db-debugger loaded
+2018-04-10T16:31:52.268Z - success: color-picker loaded
+2018-04-10T16:31:52.273Z - success: package-manager loaded
+2018-04-10T16:31:52.279Z - success: sdkbox loaded
+2018-04-10T16:31:52.286Z - success: tester loaded
+2018-04-10T16:31:52.290Z - success: ui-kit-preview-extra loaded
+2018-04-10T16:31:52.294Z - success: ui-kit-preview loaded
+2018-04-10T16:31:52.297Z - success: ui-tree loaded
+2018-04-10T16:31:53.421Z - normal: Initializing project /Users/cheungchunki/Downloads/word_proj
+2018-04-10T16:31:53.425Z - normal: Loading packages
+2018-04-10T16:31:53.429Z - normal: Watching packages
+2018-04-10T16:31:53.441Z - normal: Run Application
+2018-04-10T16:31:54.075Z - success: preview server running at http://localhost:7456
+2018-04-10T16:31:59.966Z - normal: 1.9.0
