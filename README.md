@@ -1,1 +1,2 @@
-# word_proj
+# hello-world
+Hello world new project template.
