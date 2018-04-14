@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "replay",
+    "texture": "df4e9733-9ded-4bd7-902e-f59d0c6f3551",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      96,
+      96
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      96,
+      100
+    ]
+  }
+}
